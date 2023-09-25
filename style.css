@@ -1,0 +1,69 @@
+body {
+  margin-top: 100px;
+}
+.landing {
+  background-image: url(landing-bg.jpg);
+  background-size: cover;
+  padding: 30px;
+}
+.nav-body {
+  background-color: transparent;
+}
+.nav-body .nav-elements {
+  color: white;
+  padding: 0px 60px;
+}
+.nav-body input {
+  border-radius: 100px;
+  width: 300px;
+  text-align: center;
+}
+.logo i {
+  margin: 10px 0px;
+  float: left;
+}
+.logo a {
+  font-size: 12px;
+  font-weight: bold;
+  float: right;
+  margin: 0px 5px;
+}
+.logo {
+  margin-left: 30px;
+  width: 70px;
+}
+/*end of nab-var section*/
+.intro {
+  position: relative;
+}
+.intro img {
+  width: 300px;
+  height: 350px;
+  margin: 50px 0px 0px 10px;
+}
+.heading-section .title {
+  top: 50px;
+  right: 150px;
+  color: white;
+  border: 1px soild red;
+  position: absolute;
+  font-weight: bolder;
+}
+.about-section {
+  color: white;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+.click {
+  color: white;
+  border-color: white;
+  background-color: transparent;
+}
+.social-media {
+  color: white;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  margin-top: 50px;
+}
